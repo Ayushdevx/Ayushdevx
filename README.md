@@ -1,3 +1,9 @@
+<div align="center"><img src="https://share.creavite.co/6672f5a80955994b534311d7.gif"></div>
+
+
+
+# <div align="center">Hi There, I'm Ayush Upadhyay!<img src="https://github.com/Pranjal2870/Pranjal2870/assets/96439012/868abae6-d622-4668-80f1-cfc85d29adab" width="40px" height="30px"></div> 
+
 # 💫 About Me:
 I'm Ayush Upadhyay , I like to create with compassion 
 
